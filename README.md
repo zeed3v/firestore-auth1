@@ -1,24 +1,9 @@
-# firebase-auth1
+# firestore vue3
 
-## Project setup
-```
-npm install
-```
+Versión final:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://firestore-auth1-caae6.web.app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Tengo un error en el botón modificar, no se actualiza al apretarlo, solo cuando se refresca la página. Sigo buscándole la solución a este problema, no estoy seguro si es error en el código o de autorización de id de Firebase. 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I have an error on the "modificar" button, can't solve it yet, but if you refresh the page the update should show with the decorated text. 
